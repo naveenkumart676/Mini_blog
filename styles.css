@@ -1,0 +1,90 @@
+*{
+     font-family: "Segoe UI", sans-serif;
+     
+}
+
+
+body{
+    background: linear-gradient(180deg, #1f2933, #111827);
+    color:#f3f4f6;
+    border-radius: 10px;
+}
+
+h1{
+    background: linear-gradient(135deg, #fb0c0c, #45a0bf, #0b1517);
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 70px;
+    box-shadow:10px 11px 10px rgb(147, 105, 105);
+    padding: 20px;
+
+}
+h2{
+    background-color:rgb(137, 182, 157);
+    border-left: 5px solid rgb(220, 42, 42);
+    border-radius: 10px;
+    color: #111827;
+    padding: 10px;
+    box-shadow: 0 10px 15px gold;
+
+
+}
+h3{
+    background: linear-gradient(135deg, #1c1f26, #2a2e35);
+    color:#e5e7eb;
+    border-radius:5px;
+    text-align: center;
+    background-color: rgb(71, 77, 72);
+    padding: 10px;
+}
+h4{
+    color:#facc15;
+    padding: 10px;
+}
+p{
+    background: rgba(255,255,255,0.08);
+    border-radius: 10px;
+    padding: 15px;
+}
+audio{
+    width: 100%;
+    box-shadow: 8px -8px 27px rgb(19, 105, 79);
+    border-radius: 100px;
+
+}
+video{
+    border-radius: 10px;
+    box-shadow:5px 10px 10px gold;
+    display: block;
+    margin:auto;
+
+
+}
+img{
+    box-shadow:5px 5px 5px gold ;
+    border-radius: 10px;
+    display: block;
+    margin: 25px auto;
+}
+s{
+    background-color: rgb(197, 31, 31);
+}
+ins{
+    color: green;
+}
+#last{
+    border-radius: 10px;
+    box-shadow:5px 8px 8px orangered;
+    
+}
+mark{
+    background-color: rgb(224, 71, 10);
+}
+.change{
+
+    box-shadow:5px 8px 8px orangered;
+}
+#last mark{
+    background-color: gold;
+}
+
